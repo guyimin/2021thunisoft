@@ -7,3 +7,6 @@
 
 # 训练模型
 运行 train.ipynb
+
+# 提交文件
+将模型(pytorch_model.bin)放入 submission/pysrc/pretrained/roformer/
